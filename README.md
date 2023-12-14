@@ -1,4 +1,4 @@
-# Crime Project Part 1
+# Crime Project
  
 
 Brittany Lassiter 
@@ -14,3 +14,6 @@ Brittany Lassiter
 
 > Hopeful with this statistics we can figrure out whats the highest or most intense crime to reduce it.
 >
+
+
+> https://public.tableau.com/views/CrimeProjectDashboardwithTableau/ChicagoCrimeDB1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
