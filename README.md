@@ -12,5 +12,5 @@ Brittany Lassiter
 
 
 
-> Hopeful with this stastics we can figrure out whats the highest or most intense crime to reduce it.
+> Hopeful with this statistics we can figrure out whats the highest or most intense crime to reduce it.
 >
